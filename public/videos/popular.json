@@ -1,0 +1,1711 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "oovmkGtGFU6BI0SkoEXMHcZkqUQ",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "iuDrH6jtFHzr64sUgrCl9K6dnJk",
+      "id": "LHCTW4pckDo",
+      "snippet": {
+        "publishedAt": "2023-05-02T01:36:13Z",
+        "channelId": "UCRXiA3h1no_PFkb1JCP0yMA",
+        "title": "Live at the Met Gala With Vogue",
+        "description": "For the third year in a row, Vogue will be hosting the official Met Gala red carpet livestream on Monday, May 1, giving viewers the inside look at one of the most anticipated—and star-studded—events of the year. \n\nOnce again, the livestream will be hosted by actor and producer La La Anthony, joined this time by writer and man-about-town Derek Blasberg and Saturday Night Live’s Chloe Fineman. Internet multi-hyphenate Emma Chamberlain will also return as Vogue’s special correspondent.\n\nThis year’s Met Gala, which celebrates the indelible legacy of the late Karl Lagerfeld, will no doubt be a true fashion fête.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LHCTW4pckDo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LHCTW4pckDo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LHCTW4pckDo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LHCTW4pckDo/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LHCTW4pckDo/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Vogue",
+        "tags": [
+          "vogue",
+          "met gala",
+          "emma chamberlain",
+          "metgala23-live",
+          "metgala2023",
+          "vogue met gala",
+          "met gala livestream 2023",
+          "met gala live",
+          "met gala red carpet",
+          "met gala interviews",
+          "met gala exclusive",
+          "met gala emma chamberlain",
+          "met gala behind the scenes",
+          "karl lagerfeld",
+          "met gala karl lagerfeld",
+          "met gala la la anthony",
+          "met gala gigi hadid",
+          "met gala cardi b",
+          "met gala jennie kim",
+          "met gala bad bunny",
+          "met gala kim kardashian",
+          "met gala jenner",
+          "met gala margot robbie"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Live at the Met Gala With Vogue",
+          "description": "For the third year in a row, Vogue will be hosting the official Met Gala red carpet livestream on Monday, May 1, giving viewers the inside look at one of the most anticipated—and star-studded—events of the year. \n\nOnce again, the livestream will be hosted by actor and producer La La Anthony, joined this time by writer and man-about-town Derek Blasberg and Saturday Night Live’s Chloe Fineman. Internet multi-hyphenate Emma Chamberlain will also return as Vogue’s special correspondent.\n\nThis year’s Met Gala, which celebrates the indelible legacy of the late Karl Lagerfeld, will no doubt be a true fashion fête."
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "9wWU99dX_vKA7MG3_095PZIK-1Q",
+      "id": "QpVS9pEx46k",
+      "snippet": {
+        "publishedAt": "2023-05-02T17:21:52Z",
+        "channelId": "UCzcRQ3vRNr6fJ1A9rqFn7QA",
+        "title": "DUNE 2 Trailer Teaser (2023)",
+        "description": "DUNE 2 Trailer Teaser (2023) Timothée Chalamet, Zendaya, Florence Pugh, Austin Butler\n© 2023 - Warner Bros",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QpVS9pEx46k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QpVS9pEx46k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QpVS9pEx46k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/QpVS9pEx46k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/QpVS9pEx46k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ONE Media",
+        "tags": [
+          "One Media",
+          "Trailer",
+          "Official",
+          "Movie",
+          "Film",
+          "2023",
+          "Dune 2",
+          "Dune 2 Trailer",
+          "Timothée Chalamet",
+          "Zendaya",
+          "Florence Pugh",
+          "Austin Butler"
+        ],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "DUNE 2 Trailer Teaser (2023)",
+          "description": "DUNE 2 Trailer Teaser (2023) Timothée Chalamet, Zendaya, Florence Pugh, Austin Butler\n© 2023 - Warner Bros"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "wW99I-EgnFhY0ftJixp_UHo--bs",
+      "id": "LXIu9YEr7UM",
+      "snippet": {
+        "publishedAt": "2023-05-02T14:30:10Z",
+        "channelId": "UCP5tjEmvPItGyLhmjdwP7Ww",
+        "title": "Why Iran is Helping Russia’s Invasion of Ukraine",
+        "description": "Get Nebula using my link for 40% off an annual subscription: https://go.nebula.tv/reallifelore\nWatch my exclusive video covering the Syrian Civil War here: https://nebula.tv/videos/reallifelore-modern-conflicts-the-syrian-civil-war \n\nPlease Subscribe:   https://www.youtube.com/channel/UCP5tjEmvPItGyLhmjdwP7Ww \n\nSelect video clips courtesy of Getty Images\n\nSelect video clips courtesy of the AP Archive\n\nSpecial thanks to MapTiler / OpenStreetMap Contributors and GEOlayers 3",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LXIu9YEr7UM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LXIu9YEr7UM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LXIu9YEr7UM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LXIu9YEr7UM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LXIu9YEr7UM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "RealLifeLore",
+        "tags": [
+          "real life lore",
+          "real life lore maps",
+          "real life lore geography",
+          "real life maps",
+          "world map",
+          "world map is wrong",
+          "world map with countries",
+          "world map real size",
+          "map of the world",
+          "world geography",
+          "geography",
+          "geography (field of study)",
+          "facts you didn’t know"
+        ],
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Why Iran is Helping Russia’s Invasion of Ukraine",
+          "description": "Get Nebula using my link for 40% off an annual subscription: https://go.nebula.tv/reallifelore\nWatch my exclusive video covering the Syrian Civil War here: https://nebula.tv/videos/reallifelore-modern-conflicts-the-syrian-civil-war \n\nPlease Subscribe:   https://www.youtube.com/channel/UCP5tjEmvPItGyLhmjdwP7Ww \n\nSelect video clips courtesy of Getty Images\n\nSelect video clips courtesy of the AP Archive\n\nSpecial thanks to MapTiler / OpenStreetMap Contributors and GEOlayers 3"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "tqbupWaydQFw01iVTKhxKROthcE",
+      "id": "NAmvqS0zuzA",
+      "snippet": {
+        "publishedAt": "2023-05-01T23:23:25Z",
+        "channelId": "UCL3kHlUwZr0fXFODgfGVp2A",
+        "title": "Video: Search for 2 missing girls over after authorities found 7 bodies on property near Henryetta",
+        "description": "The search for two missing girls is over after seven bodies were found on a property near Henryetta.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NAmvqS0zuzA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NAmvqS0zuzA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NAmvqS0zuzA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/NAmvqS0zuzA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/NAmvqS0zuzA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "FOX23 News Tulsa",
+        "categoryId": "25",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Video: Search for 2 missing girls over after authorities found 7 bodies on property near Henryetta",
+          "description": "The search for two missing girls is over after seven bodies were found on a property near Henryetta."
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Yh4GJyQVzTOd2rNRGLUpoDGDlkE",
+      "id": "0xdB_vo4r2c",
+      "snippet": {
+        "publishedAt": "2023-05-02T09:00:01Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "aespa 에스파 'Welcome To MY World (Feat. nævis)' MV",
+        "description": "aespa's new single \"Welcome To MY World\" is out!\nListen and download on your favorite platforms: https://aespa.lnk.to/MYWORLD-minialbum\n\naespa's 3rd Mini Album \"MY WORLD\" will be released on May 8th, 6PM (KST).\n🔗https://aespa.com\n\naespa Official\nhttps://www.youtube.com/@aespa\nhttps://www.instagram.com/aespa_official\nhttps://www.tiktok.com/@aespa_official\nhttps://twitter.com/aespa_Official\nhttps://www.facebook.com/aespa.official\nhttps://weibo.com/aespa\n\n#aespa #WelcomeToMYWorld #MYWORLD\n#에스파 #æspa #aespa_MYWORLD #naevis \naespa 에스파 'Welcome To MY World (Feat. nævis)' MV ℗© 2023 SM Entertainment, under exclusive license to Warner Records Inc.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/0xdB_vo4r2c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/0xdB_vo4r2c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/0xdB_vo4r2c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/0xdB_vo4r2c/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/0xdB_vo4r2c/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "SMTOWN",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "aespa 에스파 'Welcome To MY World (Feat. nævis)' MV",
+          "description": "aespa's new single \"Welcome To MY World\" is out!\nListen and download on your favorite platforms: https://aespa.lnk.to/MYWORLD-minialbum\n\naespa's 3rd Mini Album \"MY WORLD\" will be released on May 8th, 6PM (KST).\n🔗https://aespa.com\n\naespa Official\nhttps://www.youtube.com/@aespa\nhttps://www.instagram.com/aespa_official\nhttps://www.tiktok.com/@aespa_official\nhttps://twitter.com/aespa_Official\nhttps://www.facebook.com/aespa.official\nhttps://weibo.com/aespa\n\n#aespa #WelcomeToMYWorld #MYWORLD\n#에스파 #æspa #aespa_MYWORLD #naevis \naespa 에스파 'Welcome To MY World (Feat. nævis)' MV ℗© 2023 SM Entertainment, under exclusive license to Warner Records Inc."
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "TMwfJ142n48r7SnjAWK6UzrJTV8",
+      "id": "GlOf2rvvv-k",
+      "snippet": {
+        "publishedAt": "2023-05-02T16:00:20Z",
+        "channelId": "UCZFWPqqPkFlNwIxcpsLOwew",
+        "title": "Harry Styles - Satellite (Coming Soon)",
+        "description": "Official Trailer for “Satellite” by Harry Styles.\nJoin the \"Satellite\" Premiere Page: https://hstyles.lnk.to/Satellite\nHarry's new album \"Harry's House\" out now. Listen here:  https://hstyles.lnk.to/HarrysHouse\n \nAmazon Music: https://hstyles.lnk.to/HarrysHouse/AmazonMusic\nApple Music: https://hstyles.lnk.to/HarrysHouse/AppleMusic\nDeezer: https://hstyles.lnk.to/HarrysHouse/Deezer\niTunes: https://hstyles.lnk.to/HarrysHouse/iTunes\nPandora: https://hstyles.lnk.to/HarrysHouse/Pandora\nSoundcloud: https://hstyles.lnk.to/HarrysHouse/Soundcloud\nSpotify: https://hstyles.lnk.to/HarrysHouse/Spotify\nYouTube Music: https://hstyles.lnk.to/HarrysHouse/YouTubeMusic\n \nFollow Harry Styles:\nFacebook: https://HarryStyles.lnk.to/followFI\nInstagram: https://HarryStyles.lnk.to/followII\nTwitter: https://HarryStyles.lnk.to/followTI\nWebsite: https://HarryStyles.lnk.to/followWI\nSpotify: https://HarryStyles.lnk.to/followSI\nYouTube: https://HarryStyles.lnk.to/subscribeYD\n \n#HarryStyles #HarrysHouse #Satellite",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/GlOf2rvvv-k/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/GlOf2rvvv-k/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/GlOf2rvvv-k/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/GlOf2rvvv-k/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/GlOf2rvvv-k/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Harry Styles",
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Harry Styles - Satellite (Coming Soon)",
+          "description": "Official Trailer for “Satellite” by Harry Styles.\nJoin the \"Satellite\" Premiere Page: https://hstyles.lnk.to/Satellite\nHarry's new album \"Harry's House\" out now. Listen here:  https://hstyles.lnk.to/HarrysHouse\n \nAmazon Music: https://hstyles.lnk.to/HarrysHouse/AmazonMusic\nApple Music: https://hstyles.lnk.to/HarrysHouse/AppleMusic\nDeezer: https://hstyles.lnk.to/HarrysHouse/Deezer\niTunes: https://hstyles.lnk.to/HarrysHouse/iTunes\nPandora: https://hstyles.lnk.to/HarrysHouse/Pandora\nSoundcloud: https://hstyles.lnk.to/HarrysHouse/Soundcloud\nSpotify: https://hstyles.lnk.to/HarrysHouse/Spotify\nYouTube Music: https://hstyles.lnk.to/HarrysHouse/YouTubeMusic\n \nFollow Harry Styles:\nFacebook: https://HarryStyles.lnk.to/followFI\nInstagram: https://HarryStyles.lnk.to/followII\nTwitter: https://HarryStyles.lnk.to/followTI\nWebsite: https://HarryStyles.lnk.to/followWI\nSpotify: https://HarryStyles.lnk.to/followSI\nYouTube: https://HarryStyles.lnk.to/subscribeYD\n \n#HarryStyles #HarrysHouse #Satellite"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6TtebNqpqfFs_6NTRGk-PhzC4EM",
+      "id": "nkFfz4vw1Sg",
+      "snippet": {
+        "publishedAt": "2023-05-01T21:37:54Z",
+        "channelId": "UCJHAT3Uvv-g3I8H3GhHWV7w",
+        "title": "This Is Going To Completely Change Our Weather…",
+        "description": "Get a personal weather station here: https://shopryanhall.com/\n\nSubscribe to our new YALL SQUAD channel: https://www.youtube.com/channel/UCzuHn2AyOc5XLY8T21f-ezg\n\nIn this video we are talking about an omega block pattern setting up & what that could mean for temperatures & potential big storms this May. \n\n#weatherchannel #ryanhall #ryanhallyall\n\nOFFICIAL WEATHER MERCH: https://shopryanhall.com/\n\nJoin this channel to get access to exclusive perks:\nhttps://www.youtube.com/channel/UCJHAT3Uvv-g3I8H3GhHWV7w/join\n_____________________________________\nOmega Blocking Pattern: 0:00\nTemperature Outlook: 2:42\nPrecipitation Outlook: 3:31\nSevere Weather Outlook: 4:10\n_____________________________________\nCheck out the Y'all Squad discord server!\nhttps://discord.gg/ryanhallyall\n\nFollow me on these things:\n\nhttps://www.facebook.com/ryanhallyall\nhttps://twitter.com/ryanhallyall\nhttps://www.instagram.com/ryanhallyall/\nhttps://www.tiktok.com/@ryanhallyall\nhttps://www.twitch.tv/ryanhallyall\n\nOFFICIAL WEBSITE: https://ryanhallyall.com/\n\nBUSINESS INQUIRIES: info@ryanhallyall.com\n\nSend us something in the mail!\nPO Box 2668\nPikeville, KY 41501\n\nPlease refer to your local National Weather Service office to get the most reliable and up to date weather information as possible.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nkFfz4vw1Sg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nkFfz4vw1Sg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nkFfz4vw1Sg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nkFfz4vw1Sg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nkFfz4vw1Sg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ryan Hall, Y'all",
+        "tags": [
+          "weather",
+          "weather forecasting",
+          "forecasting",
+          "forecast",
+          "wild weather",
+          "extreme weather",
+          "intense weather",
+          "beautiful weather",
+          "weather channel",
+          "weather hunter",
+          "severe weather",
+          "major",
+          "intense",
+          "extreme",
+          "historic",
+          "blizzard",
+          "snow",
+          "heavy snow",
+          "major snow storm",
+          "snowstorm",
+          "snow squall",
+          "one foot snow",
+          "two feet snow",
+          "winter storm",
+          "tornado",
+          "tornado chasing",
+          "tornado chasers",
+          "storm chasing",
+          "storm chasers",
+          "tornadoes",
+          "ef5",
+          "hurricane",
+          "major hurricane",
+          "ryan hall"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "This Is Going To Completely Change Our Weather…",
+          "description": "Get a personal weather station here: https://shopryanhall.com/\n\nSubscribe to our new YALL SQUAD channel: https://www.youtube.com/channel/UCzuHn2AyOc5XLY8T21f-ezg\n\nIn this video we are talking about an omega block pattern setting up & what that could mean for temperatures & potential big storms this May. \n\n#weatherchannel #ryanhall #ryanhallyall\n\nOFFICIAL WEATHER MERCH: https://shopryanhall.com/\n\nJoin this channel to get access to exclusive perks:\nhttps://www.youtube.com/channel/UCJHAT3Uvv-g3I8H3GhHWV7w/join\n_____________________________________\nOmega Blocking Pattern: 0:00\nTemperature Outlook: 2:42\nPrecipitation Outlook: 3:31\nSevere Weather Outlook: 4:10\n_____________________________________\nCheck out the Y'all Squad discord server!\nhttps://discord.gg/ryanhallyall\n\nFollow me on these things:\n\nhttps://www.facebook.com/ryanhallyall\nhttps://twitter.com/ryanhallyall\nhttps://www.instagram.com/ryanhallyall/\nhttps://www.tiktok.com/@ryanhallyall\nhttps://www.twitch.tv/ryanhallyall\n\nOFFICIAL WEBSITE: https://ryanhallyall.com/\n\nBUSINESS INQUIRIES: info@ryanhallyall.com\n\nSend us something in the mail!\nPO Box 2668\nPikeville, KY 41501\n\nPlease refer to your local National Weather Service office to get the most reliable and up to date weather information as possible."
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1d9MuX22h-nC9YZbGKS2VRM0YcA",
+      "id": "O27iiZcpzVk",
+      "snippet": {
+        "publishedAt": "2023-05-02T17:50:46Z",
+        "channelId": "UCoOss5XiPpnLHGmLrBvNkJg",
+        "title": "Reacting to the Met Gala's \"colgate carpet\" looks 🫠",
+        "description": "PODCAST\nSpotify: https://open.spotify.com/show/3wvGhhd3yGEJhak11myA5N\nApple Podcasts: https://podcasts.apple.com/us/podcast/high-brow/id1677209917\nfor extra content every Wednesday 😈\n\nSUPPORT\nNewsletter: https://gremletter.substack.com/\nDonate: https://ko-fi.com/minale\n\nSOCIALS\nInstagram: http://instagram.com/gremlita\nTikTok: https://www.tiktok.com/@gremlita\nLetterboxd: http://boxd.it/7YgX\n\nbusiness email: MinaLeTeam@WMEAgency.com\n\nRachel Tasjian article: https://www.washingtonpost.com/lifestyle/2023/05/01/karl-lagerfeld-met-gala/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/O27iiZcpzVk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/O27iiZcpzVk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/O27iiZcpzVk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/O27iiZcpzVk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "Mina Le",
+        "tags": [
+          "met gala",
+          "review",
+          "commentary",
+          "fashion",
+          "styling",
+          "history",
+          "celebrity",
+          "gossip",
+          "rihanna",
+          "doja cat",
+          "karl lagerfeld",
+          "anna wintour",
+          "vogue",
+          "mina le",
+          "kim kardashian",
+          "gisele bunchen",
+          "revenge dress",
+          "90s",
+          "y2k",
+          "video essay",
+          "vintage"
+        ],
+        "categoryId": "26",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Reacting to the Met Gala's \"colgate carpet\" looks 🫠",
+          "description": "PODCAST\nSpotify: https://open.spotify.com/show/3wvGhhd3yGEJhak11myA5N\nApple Podcasts: https://podcasts.apple.com/us/podcast/high-brow/id1677209917\nfor extra content every Wednesday 😈\n\nSUPPORT\nNewsletter: https://gremletter.substack.com/\nDonate: https://ko-fi.com/minale\n\nSOCIALS\nInstagram: http://instagram.com/gremlita\nTikTok: https://www.tiktok.com/@gremlita\nLetterboxd: http://boxd.it/7YgX\n\nbusiness email: MinaLeTeam@WMEAgency.com\n\nRachel Tasjian article: https://www.washingtonpost.com/lifestyle/2023/05/01/karl-lagerfeld-met-gala/"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "4UwLG1yUmgYpW2K_bYtPCXv-X0s",
+      "id": "CC7OrEx5H4U",
+      "snippet": {
+        "publishedAt": "2023-05-02T15:00:06Z",
+        "channelId": "UC9GtSLeksfK4yuJ_g1lgQbg",
+        "title": "aespa 에스파 'I'm Unhappy' Track Video",
+        "description": "aespa's 3rd Mini Album \"MY WORLD\" will be released on May 8th, 6PM (KST).\n🔗https://aespa.com\n\n💿 Pre-order https://aespa.lnk.to/MYWORLD-minialbum\n🌐 'Welcome To MY World (Feat. nævis)' MV https://youtu.be/0xdB_vo4r2c\n\naespa Official\nhttps://www.youtube.com/@aespa\nhttps://www.instagram.com/aespa_official\nhttps://www.tiktok.com/@aespa_official\nhttps://twitter.com/aespa_Official\nhttps://www.facebook.com/aespa.official\nhttps://weibo.com/aespa\n\n#aespa #ImUnhappy #MYWORLD\n#에스파 #æspa #aespa_MYWORLD \naespa 에스파 'I'm Unhappy' Track Video ℗© 2023 SM Entertainment, under exclusive license to Warner Records Inc.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/CC7OrEx5H4U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/CC7OrEx5H4U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/CC7OrEx5H4U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/CC7OrEx5H4U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/CC7OrEx5H4U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "aespa",
+        "tags": [
+          "aespa",
+          "에스파",
+          "카리나",
+          "윈터",
+          "지젤",
+          "닝닝",
+          "트랙비디오",
+          "아임언해피",
+          "언해피",
+          "마이월드",
+          "마이",
+          "수록곡",
+          "뮤직비디오",
+          "뮤비",
+          "karina",
+          "winter",
+          "giselle",
+          "ningning",
+          "track video",
+          "I'm unhappy",
+          "unhappy",
+          "im unhappy",
+          "my world",
+          "my",
+          "b-side",
+          "music video",
+          "mv"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "aespa 에스파 'I'm Unhappy' Track Video",
+          "description": "aespa's 3rd Mini Album \"MY WORLD\" will be released on May 8th, 6PM (KST).\n🔗https://aespa.com\n\n💿 Pre-order https://aespa.lnk.to/MYWORLD-minialbum\n🌐 'Welcome To MY World (Feat. nævis)' MV https://youtu.be/0xdB_vo4r2c\n\naespa Official\nhttps://www.youtube.com/@aespa\nhttps://www.instagram.com/aespa_official\nhttps://www.tiktok.com/@aespa_official\nhttps://twitter.com/aespa_Official\nhttps://www.facebook.com/aespa.official\nhttps://weibo.com/aespa\n\n#aespa #ImUnhappy #MYWORLD\n#에스파 #æspa #aespa_MYWORLD \naespa 에스파 'I'm Unhappy' Track Video ℗© 2023 SM Entertainment, under exclusive license to Warner Records Inc."
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "eGIFMF-CqExIYUyQhmRLXhDuqMs",
+      "id": "a6D1L92ne0E",
+      "snippet": {
+        "publishedAt": "2023-05-02T03:44:14Z",
+        "channelId": "UCRXiA3h1no_PFkb1JCP0yMA",
+        "title": "Kylie Jenner & Kendall Jenner Are Having a Met Gala Girls Night | Met Gala 2023 | Vogue",
+        "description": "Emma Chamberlain stops Kylie Jenner and Kendall Jenner on the Met Gala red carpet to discuss their looks for the evening, talk about what sets them apart from one another, and invite Emma to take a shot inside. \n\nStill haven’t subscribed to Vogue on YouTube? ►► http://bit.ly/vogueyoutubesub\r\nGet the best of Vogue delivered right in your inbox ►► https://bit.ly/3xAZyQg\r\nWant to hear more from our editors? Subscribe to the magazine ►► http://bit.ly/2wXh1VW\r\nCheck out our new podcast 'In Vogue: The 1990s'  ►► https://link.chtbl.com/iv-yt-description\r\n \r\nABOUT VOGUE\r\nVogue is the authority on fashion news, culture trends, beauty coverage, videos, celebrity style, and fashion week updates.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/a6D1L92ne0E/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/a6D1L92ne0E/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/a6D1L92ne0E/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/a6D1L92ne0E/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/a6D1L92ne0E/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Vogue",
+        "tags": [
+          "chloe fineman",
+          "derek blasberg",
+          "emma chamberlain",
+          "emma chamberlain interview",
+          "emma chamberlain met gala",
+          "for karl",
+          "jenners met gala",
+          "karl lagerfeld: a line of beauty",
+          "kendall",
+          "kendall jenner",
+          "kylie",
+          "kylie jenner",
+          "la la anthony",
+          "met gala",
+          "met gala 2023",
+          "met gala interview",
+          "met gala red carpet",
+          "met gala red carpet interview",
+          "met gala vogue",
+          "metgala2023",
+          "the met",
+          "vogue",
+          "vogue met gala"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Kylie Jenner & Kendall Jenner Are Having a Met Gala Girls Night | Met Gala 2023 | Vogue",
+          "description": "Emma Chamberlain stops Kylie Jenner and Kendall Jenner on the Met Gala red carpet to discuss their looks for the evening, talk about what sets them apart from one another, and invite Emma to take a shot inside. \n\nStill haven’t subscribed to Vogue on YouTube? ►► http://bit.ly/vogueyoutubesub\r\nGet the best of Vogue delivered right in your inbox ►► https://bit.ly/3xAZyQg\r\nWant to hear more from our editors? Subscribe to the magazine ►► http://bit.ly/2wXh1VW\r\nCheck out our new podcast 'In Vogue: The 1990s'  ►► https://link.chtbl.com/iv-yt-description\r\n \r\nABOUT VOGUE\r\nVogue is the authority on fashion news, culture trends, beauty coverage, videos, celebrity style, and fashion week updates."
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "dT0Qua3_zEGhkA6NPceCEbFA7Z8",
+      "id": "s2kJEKQ89cE",
+      "snippet": {
+        "publishedAt": "2023-05-01T22:00:33Z",
+        "channelId": "UC3E-JGNt4YLokNkD90ysPyg",
+        "title": "Reece & Ray's Official Gender Reveal!",
+        "description": "Welcome to our channel! 😊 Make sure you turn on POST NOTIFICATIONS by pressing the bell 🔔 so you know every time we post!!\n🧡 Don't forget to subscribe ➜ https://www.youtube.com/channel/UC3E-JGNt4YLokNkD90ysPyg?sub_confirmation=1\n🧡 Send us stuff! ➜ P.O. BOX 503, Litchfield Park, Az 85340\n🧡 The vlogging camera we use ➜ https://go.magik.ly/ml/16mdv/\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n\nFOLLOW US!\n\nREECE'S SOCIAL MEDIA\n🧡 Instagram: https://instagram.com/yungreece\n🧡 Twitter: https://twitter.com/itsyungreece\n🧡 Reece's Music: https://www.youtube.com/channel/UCxo5Ykmc7GMYklQbe2UO2dg\n\nRAYLEEN'S SOCIAL MEDIA\n🧡 YouTube: https://www.youtube.com/channel/UCX7cZHzs-UJTQC8aiQ0VqEg\n🧡 Instagram: https://instagram.com/rayleen.v\n🧡 Twitter: https://twitter.com/rayleen_v\n\nSHOT BY: @davidradsick\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n\n💌 Business inquiries: reeceandray@imperialmgmt.com\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n\n#ReeceAndRay",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s2kJEKQ89cE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s2kJEKQ89cE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s2kJEKQ89cE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/s2kJEKQ89cE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/s2kJEKQ89cE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Reece & Ray",
+        "tags": [
+          "reece & ray",
+          "reece and ray",
+          "reece ray",
+          "liljerz",
+          "jcook",
+          "jujuanddes",
+          "kbandkarla",
+          "pranks",
+          "couples",
+          "acefamily",
+          "bennysoliven",
+          "alondradessy",
+          "makeup",
+          "family",
+          "hilarious",
+          "funny",
+          "genderreveal"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Reece & Ray's Official Gender Reveal!",
+          "description": "Welcome to our channel! 😊 Make sure you turn on POST NOTIFICATIONS by pressing the bell 🔔 so you know every time we post!!\n🧡 Don't forget to subscribe ➜ https://www.youtube.com/channel/UC3E-JGNt4YLokNkD90ysPyg?sub_confirmation=1\n🧡 Send us stuff! ➜ P.O. BOX 503, Litchfield Park, Az 85340\n🧡 The vlogging camera we use ➜ https://go.magik.ly/ml/16mdv/\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n\nFOLLOW US!\n\nREECE'S SOCIAL MEDIA\n🧡 Instagram: https://instagram.com/yungreece\n🧡 Twitter: https://twitter.com/itsyungreece\n🧡 Reece's Music: https://www.youtube.com/channel/UCxo5Ykmc7GMYklQbe2UO2dg\n\nRAYLEEN'S SOCIAL MEDIA\n🧡 YouTube: https://www.youtube.com/channel/UCX7cZHzs-UJTQC8aiQ0VqEg\n🧡 Instagram: https://instagram.com/rayleen.v\n🧡 Twitter: https://twitter.com/rayleen_v\n\nSHOT BY: @davidradsick\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n\n💌 Business inquiries: reeceandray@imperialmgmt.com\n\n- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -\n\n#ReeceAndRay"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "T7fuQ5D4XdB2o3Ouz5iJTNIWFGw",
+      "id": "LoTzpRVgVFI",
+      "snippet": {
+        "publishedAt": "2023-05-01T23:00:07Z",
+        "channelId": "UCQSEAbOs6vsJfy7WN7iYaGQ",
+        "title": "Let's Speedrun Amanda The Adventurer (All Endings)",
+        "description": "Amanda The Adventurer is a very disturbing game, so let's see how it is to speedrun\n\nMy 2nd channel (WEEKLY UPLOADS): https://www.youtube.com/eaziestspeezy\nWatch live at: https://twitch.tv/EazySpeezy\n\n▶ Twitter: https://twitter.com/EazySpeezy\n▶ Instagram: https://instagram.com/EazySpeezy/\n▶ Merch: https://eazyspeezy.com\n\nWatch the world record speedrun here: https://youtu.be/ROffeDI65Gw\n\nMy channel generally focuses on a more casual side of speedruns. With these videos I want to show off cool speedruns, explain how they work, and entertain. Hopefully you enjoy the content and maybe even take up speedrunning yourself, because it is truly a lot of fun!\n\n#EazySpeezy #AmandaTheAdventurer #Speedrun",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LoTzpRVgVFI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LoTzpRVgVFI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LoTzpRVgVFI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LoTzpRVgVFI/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LoTzpRVgVFI/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "EazySpeezy",
+        "tags": [
+          "EazySpeezy",
+          "amanda the adventurer",
+          "amanda the adventurer all endings",
+          "speedrun",
+          "speed run",
+          "world record",
+          "speedrunning",
+          "speedrunner",
+          "speedruns",
+          "wr",
+          "amanda the adventurer speedrun",
+          "amanda the adventurer world record",
+          "amanda the adventerur full game",
+          "speedrun amanda the adventerur",
+          "100% speedrun",
+          "amanda the adventurer 100%",
+          "speedrun world record",
+          "100%",
+          "any%",
+          "games done quick",
+          "eazyspeezy speedrun"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Let's Speedrun Amanda The Adventurer (All Endings)",
+          "description": "Amanda The Adventurer is a very disturbing game, so let's see how it is to speedrun\n\nMy 2nd channel (WEEKLY UPLOADS): https://www.youtube.com/eaziestspeezy\nWatch live at: https://twitch.tv/EazySpeezy\n\n▶ Twitter: https://twitter.com/EazySpeezy\n▶ Instagram: https://instagram.com/EazySpeezy/\n▶ Merch: https://eazyspeezy.com\n\nWatch the world record speedrun here: https://youtu.be/ROffeDI65Gw\n\nMy channel generally focuses on a more casual side of speedruns. With these videos I want to show off cool speedruns, explain how they work, and entertain. Hopefully you enjoy the content and maybe even take up speedrunning yourself, because it is truly a lot of fun!\n\n#EazySpeezy #AmandaTheAdventurer #Speedrun"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "LaS7suSbGHhy-8PIpNxT-FdUZrU",
+      "id": "rCF04QhiQ48",
+      "snippet": {
+        "publishedAt": "2023-05-01T22:00:07Z",
+        "channelId": "UCW2_ESwKrYgSjqQjrR09n0g",
+        "title": "Natanael Cano - Pacas De Billetes",
+        "description": "Natanael Cano - Pacas De Billetes\n\nMerch:\nhttps://dreaminpeace.store/\n\nSubscríbete a Los CT:\nhttps://www.youtube.com/channel/UCSA0...\n\nPáginas oficiales de Natanael Cano\nInstagram: https://instagram.com/natanael_cano?u...\nTikTok: https://www.tiktok.com/@natanaelcano?...\n\nPáginas oficiales de los CT \nInstagram: https://instagram.com/losct_?utm_medi...\nFacebook: https://m.facebook.com/corridostumbad...\nTikTok: https://www.tiktok.com/@mundotumbadoct \n\n\nMas de Natanael Cano:\nMorritas: https://youtu.be/bvs-W9fUMjA\nQue Me Importa: https://youtu.be/-_RxQ1aPNDw \nSelfies: https://youtu.be/i7JCQ5Ejt5o \nBrillo: https://youtu.be/gSpQburb0dM\nEstrellas: https://youtu.be/124nTWrn3eQ\nArriba: https://youtu.be/AyoTYhkJyog\nEl Drip: https://youtu.be/ehIm7sCUAVg\nAmor Tumbado: https://youtu.be/xh9ymx2bPjA\n\nAll rights reserved by:\nRancho Humilde  - Warner Music Latina - Los CT Records \n\nContacto:\nEmilio@losCT.com \n\n#NatanaelCano #PacasDeBilletes",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/rCF04QhiQ48/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/rCF04QhiQ48/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/rCF04QhiQ48/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/rCF04QhiQ48/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/rCF04QhiQ48/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Natanael Cano",
+        "tags": [
+          "Natanael Cano",
+          "Corridos Tumbados",
+          "Los CT",
+          "Rancho Humilde",
+          "Corridos 2023",
+          "Musica Mexicana",
+          "Sonora",
+          "Mexico",
+          "Natakong",
+          "Natamontana",
+          "Pacas De Billetes"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Natanael Cano - Pacas De Billetes",
+          "description": "Natanael Cano - Pacas De Billetes\n\nMerch:\nhttps://dreaminpeace.store/\n\nSubscríbete a Los CT:\nhttps://www.youtube.com/channel/UCSA0...\n\nPáginas oficiales de Natanael Cano\nInstagram: https://instagram.com/natanael_cano?u...\nTikTok: https://www.tiktok.com/@natanaelcano?...\n\nPáginas oficiales de los CT \nInstagram: https://instagram.com/losct_?utm_medi...\nFacebook: https://m.facebook.com/corridostumbad...\nTikTok: https://www.tiktok.com/@mundotumbadoct \n\n\nMas de Natanael Cano:\nMorritas: https://youtu.be/bvs-W9fUMjA\nQue Me Importa: https://youtu.be/-_RxQ1aPNDw \nSelfies: https://youtu.be/i7JCQ5Ejt5o \nBrillo: https://youtu.be/gSpQburb0dM\nEstrellas: https://youtu.be/124nTWrn3eQ\nArriba: https://youtu.be/AyoTYhkJyog\nEl Drip: https://youtu.be/ehIm7sCUAVg\nAmor Tumbado: https://youtu.be/xh9ymx2bPjA\n\nAll rights reserved by:\nRancho Humilde  - Warner Music Latina - Los CT Records \n\nContacto:\nEmilio@losCT.com \n\n#NatanaelCano #PacasDeBilletes"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "GRVW2YOz4ARC-4GLz2NWhJoh1mc",
+      "id": "YpD_2rNsN-U",
+      "snippet": {
+        "publishedAt": "2023-05-01T15:39:23Z",
+        "channelId": "UC3cpN6gcJQqcCM6mxRUo_dA",
+        "title": "The Deal with the Devil that Created Rock & Roll - Demonic Tales & Robert Johnson",
+        "description": "Click my link to get a 1-year supply of immune-supporting Vitamin D3K2 & 5 travel packs FREE with your first purchase!\nhttp://www.athleticgreens.com/wendigoon\n\nMy Links\n\nSecond channel/ Wendigang: https://www.youtube.com/@Wendigames \n\nTwitter: https://mobile.twitter.com/wendigoon8\n\nSubreddit: https://www.reddit.com/r/wendigoon/\n\nBusiness email: Wendigoon@streamworks.gg\nPersonal/Inquiries: Wendigoon8@gmail.com",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YpD_2rNsN-U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YpD_2rNsN-U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YpD_2rNsN-U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/YpD_2rNsN-U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/YpD_2rNsN-U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Wendigoon",
+        "tags": [
+          "iceberg",
+          "explained",
+          "scp",
+          "analysis",
+          "breakdown",
+          "scary",
+          "spooky",
+          "horror",
+          "creepy",
+          "comedy",
+          "funny",
+          "laugh",
+          "humor",
+          "cringe",
+          "intel",
+          "deep web",
+          "dark web",
+          "hidden",
+          "tier list",
+          "secret",
+          "top ten",
+          "top 10",
+          "countdown",
+          "compilation",
+          "meme",
+          "memes",
+          "meme compilation",
+          "internet horror",
+          "reddit",
+          "ask reddit",
+          "redacted",
+          "childhood",
+          "trauma",
+          "Mary Celeste",
+          "Flannan Isles",
+          "Eilean Mor",
+          "Island",
+          "Lighthouse",
+          "Kaz 2",
+          "Kaz II",
+          "Leviathan",
+          "Kraken",
+          "conspiracy",
+          "theory",
+          "mystery",
+          "sci fi",
+          "true crime",
+          "unsolved",
+          "shootout",
+          "arg",
+          "arg analysis",
+          "murder",
+          "unknown",
+          "wildman",
+          "cryptid"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "The Deal with the Devil that Created Rock & Roll - Demonic Tales & Robert Johnson",
+          "description": "Click my link to get a 1-year supply of immune-supporting Vitamin D3K2 & 5 travel packs FREE with your first purchase!\nhttp://www.athleticgreens.com/wendigoon\n\nMy Links\n\nSecond channel/ Wendigang: https://www.youtube.com/@Wendigames \n\nTwitter: https://mobile.twitter.com/wendigoon8\n\nSubreddit: https://www.reddit.com/r/wendigoon/\n\nBusiness email: Wendigoon@streamworks.gg\nPersonal/Inquiries: Wendigoon8@gmail.com"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "mAxzS3aIq4ib6ye9lqi5AGpnc5E",
+      "id": "EU04UEnhv_o",
+      "snippet": {
+        "publishedAt": "2023-05-01T16:00:08Z",
+        "channelId": "UC6vZl7Qj7JglLDmN_7Or-ZQ",
+        "title": "Jack Harlow - They Don't Love It [Official Music Video]",
+        "description": "Jack Harlow - They Don't Love It\nListen to 'Jackman': https://jackharlow.lnk.to/Jackman\n\nLabel: Atlantic Records / Generation Now\nMarketing: Ali B\nVideo Commissioner: Kareem Johnson\n\nDirector: Eliel Ford\nProducer: Brendan Garrett\nDP: Emerson Duggan\nEditor: Neal Farmer\nProduction Company: Bucket Pictures\nLocal Production: Hatfield Media\n\nFOLLOW JACK HARLOW\nWebsite: https://www.jackharlow.us/\nInstagram: https://JackHarlow.lnk.to/Instagram\nTwitter: https://JackHarlow.lnk.to/Twitter\nFacebook: https://JackHarlow.lnk.to/Facebook\n\nLISTEN TO JACK HARLOW\nYoutube: https://JackHarlow.lnk.to/YouTube\nSoundCloud: https://JackHarlow.lnk.to/SoundCloud\nSpotify: https://JackHarlow.lnk.to/Spotify\nApple: https://JackHarlow.lnk.to/Apple\n\nThe official YouTube channel of Generation Now and Atlantic Records artist Jack Harlow. Subscribe for the latest music videos, performances, and more.\n\nSUBSCRIBE TO JACK’S YOUTUBE: \nhttps://JackHarlow.lnk.to/YouTube\n\n#TheyDon'tLoveIt #JackHarlow #Jackman",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EU04UEnhv_o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EU04UEnhv_o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EU04UEnhv_o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/EU04UEnhv_o/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/EU04UEnhv_o/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Jack Harlow",
+        "tags": [
+          "jack harlow",
+          "jack rapper",
+          "harlow rapper",
+          "private garden",
+          "jack Harlow confetti",
+          "new jack Harlow",
+          "Louisville rapper",
+          "rapper from Louisville",
+          "Kentucky rapper",
+          "white rapper",
+          "jack harlow what’s popping",
+          "jack harlow what’s poppin",
+          "jack harlow whats popping",
+          "jack harlow whats poppin",
+          "whats poppin song",
+          "confetti mixtape",
+          "confetti",
+          "sweet action",
+          "sweet action ep",
+          "tyler herro",
+          "jack harlow tyler herro",
+          "whats poppin",
+          "jackman",
+          "they don't love it"
+        ],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Jack Harlow - They Don't Love It [Official Music Video]",
+          "description": "Jack Harlow - They Don't Love It\nListen to 'Jackman': https://jackharlow.lnk.to/Jackman\n\nLabel: Atlantic Records / Generation Now\nMarketing: Ali B\nVideo Commissioner: Kareem Johnson\n\nDirector: Eliel Ford\nProducer: Brendan Garrett\nDP: Emerson Duggan\nEditor: Neal Farmer\nProduction Company: Bucket Pictures\nLocal Production: Hatfield Media\n\nFOLLOW JACK HARLOW\nWebsite: https://www.jackharlow.us/\nInstagram: https://JackHarlow.lnk.to/Instagram\nTwitter: https://JackHarlow.lnk.to/Twitter\nFacebook: https://JackHarlow.lnk.to/Facebook\n\nLISTEN TO JACK HARLOW\nYoutube: https://JackHarlow.lnk.to/YouTube\nSoundCloud: https://JackHarlow.lnk.to/SoundCloud\nSpotify: https://JackHarlow.lnk.to/Spotify\nApple: https://JackHarlow.lnk.to/Apple\n\nThe official YouTube channel of Generation Now and Atlantic Records artist Jack Harlow. Subscribe for the latest music videos, performances, and more.\n\nSUBSCRIBE TO JACK’S YOUTUBE: \nhttps://JackHarlow.lnk.to/YouTube\n\n#TheyDon'tLoveIt #JackHarlow #Jackman"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "RoBv-gbkPZW-10ds2qRLaRmlG4Y",
+      "id": "SuPo5UjYyE4",
+      "snippet": {
+        "publishedAt": "2023-05-01T15:37:17Z",
+        "channelId": "UCVSSpcmZD2PwPBqb8yKQKBA",
+        "title": "Stephen A. REVEALS what spells trouble for the Lakers vs. Warriors 🍿 | First Take",
+        "description": "On First Take, Stephen A. Smith, Kendrick Perkins and Tim Legler preview the Lakers vs. Warriors series in the Western Conference semifinals.\n0:00 Lakers or Warriors?\n3:00 Stephen A. & Kendrick Perkins get into it!\n6:25 LeBron James has the recipe to beat the Warriors?\n8:20 Andrew Wiggins’ role#ESPN #FirstTake #NBAonESPN #StephenA \n\n☑️ Subscribe to ESPN+: https://plus.espn.com/\n📱Get the ESPN App: http://www.espn.com/espn/apps/espn\n🏀 Subscribe to NBA on ESPN on YouTube: http://bit.ly/2yxs3Og\n☑️Subscribe to ESPN on YouTube: http://es.pn/SUBSCRIBEtoYOUTUBE\n☑️Watch ESPN on YouTube TV: http://es.pn/YouTubeTV",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/SuPo5UjYyE4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/SuPo5UjYyE4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/SuPo5UjYyE4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/SuPo5UjYyE4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "NBA on ESPN",
+        "tags": [
+          "Stephen A. REVEALS what spells trouble for the Lakers vs. Warriors 🍿 | First Take",
+          "First Take",
+          "First Take full show",
+          "first take espn",
+          "espn first take",
+          "Stephen a smith",
+          "Stephen a",
+          "Stephen A. Smith",
+          "First Take on ESPN",
+          "first take full",
+          "first take full show",
+          "Stephen a first take",
+          "Stephen A. First Take",
+          "ESPN",
+          "first take",
+          "stephen a. smith",
+          "lakers vs warriors",
+          "steph curry",
+          "stephen curry",
+          "lebron james",
+          "lebron",
+          "NBA on ESPN",
+          "ESPN NBA",
+          "NBA",
+          "#ESPN",
+          "#NBA"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Stephen A. REVEALS what spells trouble for the Lakers vs. Warriors 🍿 | First Take",
+          "description": "On First Take, Stephen A. Smith, Kendrick Perkins and Tim Legler preview the Lakers vs. Warriors series in the Western Conference semifinals.\n0:00 Lakers or Warriors?\n3:00 Stephen A. & Kendrick Perkins get into it!\n6:25 LeBron James has the recipe to beat the Warriors?\n8:20 Andrew Wiggins’ role#ESPN #FirstTake #NBAonESPN #StephenA \n\n☑️ Subscribe to ESPN+: https://plus.espn.com/\n📱Get the ESPN App: http://www.espn.com/espn/apps/espn\n🏀 Subscribe to NBA on ESPN on YouTube: http://bit.ly/2yxs3Og\n☑️Subscribe to ESPN on YouTube: http://es.pn/SUBSCRIBEtoYOUTUBE\n☑️Watch ESPN on YouTube TV: http://es.pn/YouTubeTV"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_DyRfjuJTvEu8JCNa_3uRFwzryE",
+      "id": "C-WQcCqecHg",
+      "snippet": {
+        "publishedAt": "2023-05-01T15:00:15Z",
+        "channelId": "UC0ZV6M2THA81QT9hrVWJG3A",
+        "title": "Apex Legends: Arsenal Gameplay Trailer",
+        "description": "Show your caliber in Apex Legends: Arsenal. The ultimate competitor of the original Thunderdome Games, new Legend Ballistic has come out of retirement to teach the young pups some respect - though it’s a lesson few survive unhurt. Explore a healing World’s Edge, and drop in on the Apex Games Museum to venture through their history. Demonstrate your skills with your favorite weapons with new Weapon Mastery, an opportunity to earn rewards that demonstrate your skill - and inspire envy. Or ,grow your skills in the newly evolved Firing Range, now bigger and badder than ever before. Drop in on May 9 and prove you’re ready to hit your mark!\n\n\nhttp://x.ea.com/76313\n\nApex Legends is a free-to-play hero shooter game where legendary characters battle for glory, fame, and fortune on the fringes of the Frontier. Play for free now on PlayStation® 4, PlayStation 5, Xbox One, Xbox Series X|S, Nintendo Switch, and PC via Origin and Steam.\n\n\n#ApexLegendsArsenal #ApexArsenal #ApexLegends\n\nCREDITS:\nProduction Company: Electronic Arts & Dark Burn Creative\nSound Design and Mix: Respawn Entertainment & Mass Audio\nAll other categories: Electronic Arts & Respawn Entertainment\n\nLearn more about Apex Legends: Arsenal: http://x.ea.com/76313\n\nCheck out our YouTube channel: https://www.youtube.com/c/playapex.\nFollow us on Twitter: https://twitter.com/playapex.\nFollow us on Instagram: https://www.instagram.com/playapex/.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/C-WQcCqecHg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/C-WQcCqecHg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/C-WQcCqecHg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/C-WQcCqecHg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/C-WQcCqecHg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Apex Legends",
+        "tags": [
+          "apex legends",
+          "apex",
+          "apex legends season 17",
+          "apex legends arsenal",
+          "apex legends trailer",
+          "apex trailer",
+          "apex トレーラー",
+          "エーペックス",
+          "apex season 17 apex arsenal",
+          "apex season 17 trailer",
+          "apex legends season 17 trailer",
+          "apex gameplay trailer",
+          "arsenal trailer",
+          "arsenal apex legends",
+          "arsenal gameplay trailer",
+          "gameplay apex legends",
+          "gameplay trailer apex legends",
+          "respawn apex legends",
+          "battle royale game",
+          "battle royale"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Apex Legends: Arsenal Gameplay Trailer",
+          "description": "Show your caliber in Apex Legends: Arsenal. The ultimate competitor of the original Thunderdome Games, new Legend Ballistic has come out of retirement to teach the young pups some respect - though it’s a lesson few survive unhurt. Explore a healing World’s Edge, and drop in on the Apex Games Museum to venture through their history. Demonstrate your skills with your favorite weapons with new Weapon Mastery, an opportunity to earn rewards that demonstrate your skill - and inspire envy. Or ,grow your skills in the newly evolved Firing Range, now bigger and badder than ever before. Drop in on May 9 and prove you’re ready to hit your mark!\n\n\nhttp://x.ea.com/76313\n\nApex Legends is a free-to-play hero shooter game where legendary characters battle for glory, fame, and fortune on the fringes of the Frontier. Play for free now on PlayStation® 4, PlayStation 5, Xbox One, Xbox Series X|S, Nintendo Switch, and PC via Origin and Steam.\n\n\n#ApexLegendsArsenal #ApexArsenal #ApexLegends\n\nCREDITS:\nProduction Company: Electronic Arts & Dark Burn Creative\nSound Design and Mix: Respawn Entertainment & Mass Audio\nAll other categories: Electronic Arts & Respawn Entertainment\n\nLearn more about Apex Legends: Arsenal: http://x.ea.com/76313\n\nCheck out our YouTube channel: https://www.youtube.com/c/playapex.\nFollow us on Twitter: https://twitter.com/playapex.\nFollow us on Instagram: https://www.instagram.com/playapex/."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "QNfdCOoCCL3BEE8UsxMDe-QYK6s",
+      "id": "Rhf9lPCVaZc",
+      "snippet": {
+        "publishedAt": "2023-05-02T11:10:14Z",
+        "channelId": "UClG8odDC8TS6Zpqk9CGVQiQ",
+        "title": "Find the Force - the Ultimate Star Wars Experience in Fortnite",
+        "description": "Fortnite Battle Royale takes a look back in the Star Wars™ timeline with Find the Force: fn.gg/FindtheForce\n\nRunning until May 23, 2023, at 9am ET you’ll be able to choose your trainer. Obi-Wan Kenobi and Anakin Skywalker as your Jedi trainers or Darth Maul as your Sith trainer. Use Force abilities taught by one of these lightsaber-wielders to show your opponents the way of the light… or dark side. These abilities include:\n-Force Push\n-Force Pull \n-Force Throw\n\nComplete Quests, earn cosmetic rewards, purchase the Premium Reward Track Upgrade, and more in Fortnite’s Find the Force. \n\nRead more in our blog or jump into Fortnite to learn the ways of the Force. \n\n#FindtheForce #Fortnite #FortniteFindtheForce\n\nPlay Fortnite Battle Royale, the completely free 100-player PvP mode. One giant map, A Battle Bus, Last one standing wins. ESRB Rating: Teen with Violence.\n\nInstagram: https://www.instagram.com/fortnite/​\nTwitter: https://twitter.com/FortniteGame​\nFacebook: https://www.facebook.com/FortniteGame/​\nTikTok: https://www.tiktok.com/@Fortnite\n\nLearn More: https://www.epicgames.com/fortnite/en-US/home",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Rhf9lPCVaZc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Rhf9lPCVaZc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Rhf9lPCVaZc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Rhf9lPCVaZc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Rhf9lPCVaZc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Fortnite",
+        "tags": [
+          "yt:cc=on",
+          "fortnite",
+          "fortnite find the force",
+          "fortnite event",
+          "find the force",
+          "fortnite Star Wars",
+          "Star Wars",
+          "fortnite Star Wars event",
+          "fortnite find the force event",
+          "find the force event",
+          "fortnite lightsabers",
+          "lightsabers",
+          "fortnite force",
+          "the force",
+          "Darth maul",
+          "anakin",
+          "anakin skywalker",
+          "fortnite anakin",
+          "fortnite anakin skywalker",
+          "prequel trilogy",
+          "fortnite prequel trilogy",
+          "Star Wars prequel",
+          "Star Wars prequels",
+          "Star Wars prequel trilogy",
+          "fortnite Darth maul",
+          "fortnite padme"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Find the Force - the Ultimate Star Wars Experience in Fortnite",
+          "description": "Fortnite Battle Royale takes a look back in the Star Wars™ timeline with Find the Force: fn.gg/FindtheForce\n\nRunning until May 23, 2023, at 9am ET you’ll be able to choose your trainer. Obi-Wan Kenobi and Anakin Skywalker as your Jedi trainers or Darth Maul as your Sith trainer. Use Force abilities taught by one of these lightsaber-wielders to show your opponents the way of the light… or dark side. These abilities include:\n-Force Push\n-Force Pull \n-Force Throw\n\nComplete Quests, earn cosmetic rewards, purchase the Premium Reward Track Upgrade, and more in Fortnite’s Find the Force. \n\nRead more in our blog or jump into Fortnite to learn the ways of the Force. \n\n#FindtheForce #Fortnite #FortniteFindtheForce\n\nPlay Fortnite Battle Royale, the completely free 100-player PvP mode. One giant map, A Battle Bus, Last one standing wins. ESRB Rating: Teen with Violence.\n\nInstagram: https://www.instagram.com/fortnite/​\nTwitter: https://twitter.com/FortniteGame​\nFacebook: https://www.facebook.com/FortniteGame/​\nTikTok: https://www.tiktok.com/@Fortnite\n\nLearn More: https://www.epicgames.com/fortnite/en-US/home"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5AjCtQ-6r8GwXMtxKRz7w2O-OeM",
+      "id": "zGJscZfTPTw",
+      "snippet": {
+        "publishedAt": "2023-05-02T08:12:38Z",
+        "channelId": "UCdC4oG9R2WxTE_rH6em-euQ",
+        "title": "The 10 best dressed from the Met Gala 2023 | Bazaar UK",
+        "description": "The 2023 Met Gala took place on the first Monday of May. The event was a celebration of the late, great Karl Lagerfeld, and saw celebrities pay tribute to the designer in numerous ways; some wore vintage designs from the man himself, while others wore creations that were inspired by his aesthetic as rival fashion houses put their own spin on some of his most famous work.\n\nFrom Naomi in vintage Chanel to Anne Hathaway in Versace, here are our 10 favourite looks from the night.\n\n#metgala #redcarpet #bestdressed \n\nDon't miss out on our latest video  ►► https://bit.ly/SubscribetoBazaarUk\n\n// ABOUT BAZAAR UK //\nThe essential edit of chic, high-end style delivered with editorial flair, Harper's Bazaar UK is your source for red carpet moments, beauty and skincare, catwalk fashion trends from the runway, celebrity interviews and coverage of the hottest A-list events.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zGJscZfTPTw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zGJscZfTPTw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zGJscZfTPTw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/zGJscZfTPTw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/zGJscZfTPTw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Harper's Bazaar UK",
+        "tags": [
+          "harpers bazaar",
+          "bazaar",
+          "red carpet",
+          "catwalk",
+          "met gala",
+          "2023",
+          "chanel",
+          "karl lagerfeld",
+          "choupette",
+          "priyanka chopra",
+          "rihanna",
+          "nicole kidman",
+          "rodarte",
+          "camila morrone",
+          "allison williams",
+          "patou",
+          "vintage",
+          "valentino",
+          "sydney sweeney",
+          "miu miu",
+          "lily collins",
+          "naomi campbell",
+          "schiaparelli",
+          "michaela coel",
+          "anne hathaway",
+          "versace",
+          "ver wang",
+          "fashion",
+          "best",
+          "review",
+          "met gala 2023",
+          "met gala red carpet",
+          "met gala best dressed",
+          "met gala 2023 best dressed"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "The 10 best dressed from the Met Gala 2023 | Bazaar UK",
+          "description": "The 2023 Met Gala took place on the first Monday of May. The event was a celebration of the late, great Karl Lagerfeld, and saw celebrities pay tribute to the designer in numerous ways; some wore vintage designs from the man himself, while others wore creations that were inspired by his aesthetic as rival fashion houses put their own spin on some of his most famous work.\n\nFrom Naomi in vintage Chanel to Anne Hathaway in Versace, here are our 10 favourite looks from the night.\n\n#metgala #redcarpet #bestdressed \n\nDon't miss out on our latest video  ►► https://bit.ly/SubscribetoBazaarUk\n\n// ABOUT BAZAAR UK //\nThe essential edit of chic, high-end style delivered with editorial flair, Harper's Bazaar UK is your source for red carpet moments, beauty and skincare, catwalk fashion trends from the runway, celebrity interviews and coverage of the hottest A-list events."
+        },
+        "defaultAudioLanguage": "en-GB"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "7w18qu-bHxN9hOjLuCpDJApUX08",
+      "id": "qOMP2aihNHE",
+      "snippet": {
+        "publishedAt": "2023-05-02T00:05:23Z",
+        "channelId": "UCK9_x1DImhU-eolIay5rb2Q",
+        "title": "Redfall Review in Progress - One of the Worst Games I Played So Far In 2023",
+        "description": "Redfall just never comes together. I got to test the retail patch due to the embargo snafu and put in some footage of that as well. Sadly no improvement in how it plays or feels.\nRedfall has its fun gameplay moments but they have eaten away with every bug, odd design choice, and boring skill that just don't elevate it. It is just not that good. \n\nThanks to Xbox for the code and Bethesda.\n\n#videogames #redfall \n\n🕶  Welcome to what I hope is the best videogame review channel on youtube.\nSubscribe to ACG for video-game reviews, where Karak pays his own money even if the developers given him a code for the game. Previews on new games, top gaming news, funny and informative shorts and much more. \nhttps://www.youtube.com/@ACGreviews\nhttps://opencritic.com/outlet/310/acg\n\nWe also do the Best Gaming and Videogame Podcast each friday\n🎧Itunes https://podcasts.apple.com/us/podcast/acg-the-best-gaming-podcast/id966781846\n🎧ACG Reviews and Podcast on Spotify https://open.spotify.com/show/7ksaVxOmtaWDOYHvg4a4xK?si=8df0eae9bf6b4af7\n\n 🕶 Karak with ACG or angrycentaurgaming, covers new games, old games, previews, reviews, and opinions on the videogame industry and leading podcasts on new gaming subjects each week that you can get by joining this channel to get access to perks: Gaming discord.\n\n 🕶 If you want to help out the channel you can buying a game on Epic use the ACG creator code KARAK-ACG\n 🕶 Karak and ACG's  Gaming and News Webpage is locations at https://www.acgamer.net/ and all his social links can be found here https://linktr.ee/ACG_Karak\nFollow me on Twitter for reviews and info @jeremypenter\n-JOIN the ACG Reddit https://www.reddit.com/r/ACGVids/\n https://www.patreon.com/AngryCentaurGaming \n\nACG Reviews and Podcast can be found at the following links\n🎧Itunes https://podcasts.apple.com/us/podcast/acg-the-best-gaming-podcast/id966781846\n🎧ACG Reviews and Podcast on Spotify https://open.spotify.com/show/7ksaVxOmtaWDOYHvg4a4xK?si=8df0eae9bf6b4af7\n🎩ACG Merch Store https://acg.creator-spring.com/\n🎩ACG Amazon Affiliate https://amzn.to/3cW7GQ0\n\nCoverage includes ps4, PS5, XBox series X/s, Xbox one, pc, Switch, and digital storefronts like Steam, as well as companies like Microsoft, Sony and Nintendo.\nBuy, wait for a sale, rent, or never touch it. The Patented Karak review system to see if a game is worth a buy upon release or if I recommend waiting.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/qOMP2aihNHE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/qOMP2aihNHE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/qOMP2aihNHE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/qOMP2aihNHE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/qOMP2aihNHE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ACG",
+        "tags": [
+          "acgreview",
+          "angrycentaurgaming",
+          "gameplay",
+          "ACG",
+          "gaming news",
+          "acg reviews",
+          "video games",
+          "angry review",
+          "acg impressions",
+          "videogame reviews",
+          "videogame review",
+          "game review",
+          "acg review",
+          "games",
+          "gamenews",
+          "reaction",
+          "ign",
+          "steam deck",
+          "react to",
+          "comedy",
+          "podcast",
+          "redfall review",
+          "redfall bugs",
+          "redfall preview",
+          "redfall impressions",
+          "redfall gameplay",
+          "Redfall Review in Progress - Unpolished and Unfocused"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-US",
+        "localized": {
+          "title": "Redfall Review in Progress - One of the Worst Games I Played So Far In 2023",
+          "description": "Redfall just never comes together. I got to test the retail patch due to the embargo snafu and put in some footage of that as well. Sadly no improvement in how it plays or feels.\nRedfall has its fun gameplay moments but they have eaten away with every bug, odd design choice, and boring skill that just don't elevate it. It is just not that good. \n\nThanks to Xbox for the code and Bethesda.\n\n#videogames #redfall \n\n🕶  Welcome to what I hope is the best videogame review channel on youtube.\nSubscribe to ACG for video-game reviews, where Karak pays his own money even if the developers given him a code for the game. Previews on new games, top gaming news, funny and informative shorts and much more. \nhttps://www.youtube.com/@ACGreviews\nhttps://opencritic.com/outlet/310/acg\n\nWe also do the Best Gaming and Videogame Podcast each friday\n🎧Itunes https://podcasts.apple.com/us/podcast/acg-the-best-gaming-podcast/id966781846\n🎧ACG Reviews and Podcast on Spotify https://open.spotify.com/show/7ksaVxOmtaWDOYHvg4a4xK?si=8df0eae9bf6b4af7\n\n 🕶 Karak with ACG or angrycentaurgaming, covers new games, old games, previews, reviews, and opinions on the videogame industry and leading podcasts on new gaming subjects each week that you can get by joining this channel to get access to perks: Gaming discord.\n\n 🕶 If you want to help out the channel you can buying a game on Epic use the ACG creator code KARAK-ACG\n 🕶 Karak and ACG's  Gaming and News Webpage is locations at https://www.acgamer.net/ and all his social links can be found here https://linktr.ee/ACG_Karak\nFollow me on Twitter for reviews and info @jeremypenter\n-JOIN the ACG Reddit https://www.reddit.com/r/ACGVids/\n https://www.patreon.com/AngryCentaurGaming \n\nACG Reviews and Podcast can be found at the following links\n🎧Itunes https://podcasts.apple.com/us/podcast/acg-the-best-gaming-podcast/id966781846\n🎧ACG Reviews and Podcast on Spotify https://open.spotify.com/show/7ksaVxOmtaWDOYHvg4a4xK?si=8df0eae9bf6b4af7\n🎩ACG Merch Store https://acg.creator-spring.com/\n🎩ACG Amazon Affiliate https://amzn.to/3cW7GQ0\n\nCoverage includes ps4, PS5, XBox series X/s, Xbox one, pc, Switch, and digital storefronts like Steam, as well as companies like Microsoft, Sony and Nintendo.\nBuy, wait for a sale, rent, or never touch it. The Patented Karak review system to see if a game is worth a buy upon release or if I recommend waiting."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "_BrxYrwiDPqZ3Pp-p-ZVUcE1LfM",
+      "id": "My_IkvLm_lE",
+      "snippet": {
+        "publishedAt": "2023-05-02T12:30:10Z",
+        "channelId": "UCW_c5PzkvxMaBxqwjITW6-A",
+        "title": "the 2023 met gala was unbelievably boring 🎀✨👔 (met gala 2023 review)",
+        "description": "another year, another met gala to review. in today's video we talk about this year's theme \"karl lagerfeld: a line of beauty\" and which celebrities did or didn't dress the part. which celebrity had your favorite look at the 2023 met gala?\n\nintro 0:00\nmet gala fashion review 4:57\n\nfollow us! 🌸 \nhttps://www.instagram.com/moderngurlz\nhttps://www.twitter.com/moderngurlzz\nhttps://www.tiktok.com/@moderngurlz\nhttps://www.pinterest.com/moderngurlz/\n\nget in touch 💌\nmoderngurlz@night.co\n\nmusic! 🎶\nhttps://soundcloud.com/yueunseo/future-james-pure-imagination\nMusic by Tarious Hill - Out Of Season - https://thmatc.co/?l=5A8754D3\nMusic by Brodie Love - Tall Glass Of Juice - https://thmatc.co/?l=651385D0\nMusic by Gil Wanders - By The River - https://thmatc.co/?l=69ABD9D5\n\n\nintro/outro by\nnicole w.b \nhttps://www.instagram.com/cherryinferno/\n\nCopyright Disclaimer under section 107 of the Copyright Act of 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research. All the videos, songs, images, and graphics used in the video belong to their respective owners and this channel does not claim any right over them.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/My_IkvLm_lE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/My_IkvLm_lE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/My_IkvLm_lE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/My_IkvLm_lE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/My_IkvLm_lE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ModernGurlz",
+        "tags": [
+          "style",
+          "modern gurlz",
+          "90s fashion",
+          "fashion",
+          "movie review",
+          "movie commentary",
+          "moderngurlz",
+          "review",
+          "movies",
+          "Film analysis",
+          "movie analysis",
+          "analysis",
+          "video essay",
+          "trivia",
+          "movie reviews",
+          "tv theory",
+          "cinema",
+          "television",
+          "entertainment",
+          "deep meaning",
+          "tv answers",
+          "disney",
+          "ranking",
+          "ranking movies",
+          "costume design",
+          "fashion analysis",
+          "style analysis",
+          "met gala",
+          "met gala review",
+          "met gala reaction",
+          "2023 met gala",
+          "fashion show",
+          "chanel",
+          "dua lipa",
+          "90s chanel",
+          "fendi",
+          "margot robbie",
+          "karl lagerfeld"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "the 2023 met gala was unbelievably boring 🎀✨👔 (met gala 2023 review)",
+          "description": "another year, another met gala to review. in today's video we talk about this year's theme \"karl lagerfeld: a line of beauty\" and which celebrities did or didn't dress the part. which celebrity had your favorite look at the 2023 met gala?\n\nintro 0:00\nmet gala fashion review 4:57\n\nfollow us! 🌸 \nhttps://www.instagram.com/moderngurlz\nhttps://www.twitter.com/moderngurlzz\nhttps://www.tiktok.com/@moderngurlz\nhttps://www.pinterest.com/moderngurlz/\n\nget in touch 💌\nmoderngurlz@night.co\n\nmusic! 🎶\nhttps://soundcloud.com/yueunseo/future-james-pure-imagination\nMusic by Tarious Hill - Out Of Season - https://thmatc.co/?l=5A8754D3\nMusic by Brodie Love - Tall Glass Of Juice - https://thmatc.co/?l=651385D0\nMusic by Gil Wanders - By The River - https://thmatc.co/?l=69ABD9D5\n\n\nintro/outro by\nnicole w.b \nhttps://www.instagram.com/cherryinferno/\n\nCopyright Disclaimer under section 107 of the Copyright Act of 1976, allowance is made for “fair use” for purposes such as criticism, comment, news reporting, teaching, scholarship, education and research. All the videos, songs, images, and graphics used in the video belong to their respective owners and this channel does not claim any right over them."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "1m6b_nIXHlVgv8OoHaBko91sPfE",
+      "id": "8vmb3ZyFap8",
+      "snippet": {
+        "publishedAt": "2023-04-30T18:50:12Z",
+        "channelId": "UCiYcA0gJzg855iSKMrX3oHg",
+        "title": "THE END OF AMANDA [Amanda The Adventurer #3]",
+        "description": "WELCOME, back to Amanda The Adventurer! LET'S END THIS.\n\nJoin ► http://bit.ly/1vKSGtU\nTiktok ► https://www.tiktok.com/@notcoryxkenshin\nTwitter ► https://twitter.com/coryxkenshin\nInstagram ► http://instagram.com/coryxkenshin\n\nGame: https://store.steampowered.com/app/2166060/Amanda_the_Adventurer/\n\nMusic:\nhttps://www.youtube.com/user/myuuji\nhttps://incompetech.com/music/royalty-free/music.html\n\nJesus said to love one another and that we should be servants to each other, so I would ask that you all do that in the comment section. Be respectful. We are a community. That means more to me than anything. Thank you.\n\n~CK\n\n#coryxkenshin #amandatheadventurer",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8vmb3ZyFap8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8vmb3ZyFap8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8vmb3ZyFap8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8vmb3ZyFap8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8vmb3ZyFap8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CoryxKenshin",
+        "tags": [
+          "amanda the adventurer",
+          "amanda",
+          "the",
+          "adventurer",
+          "gameplay",
+          "game",
+          "full",
+          "new",
+          "full game",
+          "ending",
+          "bad",
+          "playthrough",
+          "walkthrough",
+          "how to",
+          "scary",
+          "horror",
+          "jumpscare",
+          "wooly",
+          "coryxkenshin",
+          "cory",
+          "kenshin",
+          "funny",
+          "hilarious",
+          "moments",
+          "reaction",
+          "edits",
+          "all endings",
+          "endings",
+          "end",
+          "the end",
+          "finale",
+          "part 3",
+          "all tapes"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "THE END OF AMANDA [Amanda The Adventurer #3]",
+          "description": "WELCOME, back to Amanda The Adventurer! LET'S END THIS.\n\nJoin ► http://bit.ly/1vKSGtU\nTiktok ► https://www.tiktok.com/@notcoryxkenshin\nTwitter ► https://twitter.com/coryxkenshin\nInstagram ► http://instagram.com/coryxkenshin\n\nGame: https://store.steampowered.com/app/2166060/Amanda_the_Adventurer/\n\nMusic:\nhttps://www.youtube.com/user/myuuji\nhttps://incompetech.com/music/royalty-free/music.html\n\nJesus said to love one another and that we should be servants to each other, so I would ask that you all do that in the comment section. Be respectful. We are a community. That means more to me than anything. Thank you.\n\n~CK\n\n#coryxkenshin #amandatheadventurer"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "nvwkQWtFhrtTfqHeCA7H66x564s",
+      "id": "8uWSFTqns0U",
+      "snippet": {
+        "publishedAt": "2023-05-02T02:08:36Z",
+        "channelId": "UCRXiA3h1no_PFkb1JCP0yMA",
+        "title": "Jack Harlow & Emma Chamberlain Reunite at the Met Gala | Met Gala 2023 With Emma Chamberlain",
+        "description": "Jack Harlow talks to Emma Chamberlain about their iconic Met Gala moment last year.\n\nStill haven’t subscribed to Vogue on YouTube? ►► http://bit.ly/vogueyoutubesub\r\nGet the best of Vogue delivered right in your inbox ►► https://bit.ly/3xAZyQg\r\nWant to hear more from our editors? Subscribe to the magazine ►► http://bit.ly/2wXh1VW\r\nCheck out our new podcast 'In Vogue: The 1990s'  ►► https://link.chtbl.com/iv-yt-description\r\n \r\nABOUT VOGUE\r\nVogue is the authority on fashion news, culture trends, beauty coverage, videos, celebrity style, and fashion week updates.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8uWSFTqns0U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8uWSFTqns0U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8uWSFTqns0U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8uWSFTqns0U/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8uWSFTqns0U/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Vogue",
+        "tags": [
+          "chloe fineman",
+          "derek blasberg",
+          "emma chamberlain",
+          "emma chamberlain interview",
+          "emma chamberlain jack harlow met",
+          "emma chamberlain met gala",
+          "for karl",
+          "jack harlow",
+          "karl lagerfeld: a line of beauty",
+          "la la anthony",
+          "met gala",
+          "met gala 2023",
+          "met gala interview",
+          "met gala red carpet",
+          "met gala red carpet interview",
+          "met gala vogue",
+          "metgala2023",
+          "the met",
+          "vogue"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Jack Harlow & Emma Chamberlain Reunite at the Met Gala | Met Gala 2023 With Emma Chamberlain",
+          "description": "Jack Harlow talks to Emma Chamberlain about their iconic Met Gala moment last year.\n\nStill haven’t subscribed to Vogue on YouTube? ►► http://bit.ly/vogueyoutubesub\r\nGet the best of Vogue delivered right in your inbox ►► https://bit.ly/3xAZyQg\r\nWant to hear more from our editors? Subscribe to the magazine ►► http://bit.ly/2wXh1VW\r\nCheck out our new podcast 'In Vogue: The 1990s'  ►► https://link.chtbl.com/iv-yt-description\r\n \r\nABOUT VOGUE\r\nVogue is the authority on fashion news, culture trends, beauty coverage, videos, celebrity style, and fashion week updates."
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "hOoAhJHyZnW9jkzYe66uWLbvlLc",
+      "id": "DdbmTl0rhGw",
+      "snippet": {
+        "publishedAt": "2023-05-02T13:00:15Z",
+        "channelId": "UCMOqf8ab-42UUQIdVoKwjlQ",
+        "title": "How Sensors Keep Bridges From Collapsing (and other structures too)",
+        "description": "Infrastructure Instrumentation to save lives and make cool graphs!\n🪒 Shave with a precision tool by Henson and get 100 blades free: https://bit.ly/3CWiWJP\r\n\nIt turns out that plenty of types of infrastructure, especially those that have serious implications for public safety, are equipped with instruments to track their performance over time and even save lives by providing an early warning if something is going wrong. Engineers keep an eye on strain, vibrations, temperature, pressure, tilt, flow rate, and more to make sure that structures behave like they were designed and to keep people safe from disaster.\n\nWatch this video ad-free on Nebula: https://nebula.tv/videos/practical-engineering-why-bridges-need-sensors-and-other-structures-too\n\nSigned copies of my book (plus other cool stuff) are available here: https://store.practical.engineering/\n\nPractical Engineering is a YouTube channel about infrastructure and the human-made world around us. It is hosted, written, and produced by Grady Hillhouse. We have new videos posted regularly, so please subscribe for updates. If you enjoyed the video, hit that ‘like’ button, give us a comment, or watch another of our videos!\n\nCONNECT WITH ME\n____________________________________\nWebsite:         http://practical.engineering\nTwitter:           https://twitter.com/HillhouseGrady\nInstagram:     https://www.instagram.com/practicalengineering\nReddit:            https://www.reddit.com/r/PracticalEngineering\nFacebook:      https://www.facebook.com/PracticalEngineerGrady​\nPatreon:         http://patreon.com/PracticalEngineering\n\nSPONSORSHIP INQUIRIES\n____________________________________\nPlease email my agent at practicalengineering@standard.tv\n\nDISCLAIMER\n____________________________________\nThis is not engineering advice. Everything here is for informational and entertainment purposes only. Contact an engineer licensed to practice in your area if you need professional advice or services. All non-licensed clips used for fair use commentary, criticism, and educational purposes.\n\nSPECIAL THANKS\n____________________________________\nThis video is sponsored by Henson.\nStock video and imagery provided by Getty Images, Shutterstock, Pond5, and Videoblocks.\nMusic by Epidemic Sound: http://epidemicsound.com/creator\nTonic and Energy by Elexive is licensed under a Creative Commons Attribution License\nSource: https://www.youtube.com/watch?v=U6fBPdu8w9U\nHosted/Written/Produced by Grady Hillhouse\nEdited by Wesley Crump\nScript Edited by Ralph Crewe\nProduction Assistance from Josh Lorenz\nGraphics by Nebula Studios",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DdbmTl0rhGw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DdbmTl0rhGw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DdbmTl0rhGw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DdbmTl0rhGw/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DdbmTl0rhGw/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Practical Engineering",
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "How Sensors Keep Bridges From Collapsing (and other structures too)",
+          "description": "Infrastructure Instrumentation to save lives and make cool graphs!\n🪒 Shave with a precision tool by Henson and get 100 blades free: https://bit.ly/3CWiWJP\r\n\nIt turns out that plenty of types of infrastructure, especially those that have serious implications for public safety, are equipped with instruments to track their performance over time and even save lives by providing an early warning if something is going wrong. Engineers keep an eye on strain, vibrations, temperature, pressure, tilt, flow rate, and more to make sure that structures behave like they were designed and to keep people safe from disaster.\n\nWatch this video ad-free on Nebula: https://nebula.tv/videos/practical-engineering-why-bridges-need-sensors-and-other-structures-too\n\nSigned copies of my book (plus other cool stuff) are available here: https://store.practical.engineering/\n\nPractical Engineering is a YouTube channel about infrastructure and the human-made world around us. It is hosted, written, and produced by Grady Hillhouse. We have new videos posted regularly, so please subscribe for updates. If you enjoyed the video, hit that ‘like’ button, give us a comment, or watch another of our videos!\n\nCONNECT WITH ME\n____________________________________\nWebsite:         http://practical.engineering\nTwitter:           https://twitter.com/HillhouseGrady\nInstagram:     https://www.instagram.com/practicalengineering\nReddit:            https://www.reddit.com/r/PracticalEngineering\nFacebook:      https://www.facebook.com/PracticalEngineerGrady​\nPatreon:         http://patreon.com/PracticalEngineering\n\nSPONSORSHIP INQUIRIES\n____________________________________\nPlease email my agent at practicalengineering@standard.tv\n\nDISCLAIMER\n____________________________________\nThis is not engineering advice. Everything here is for informational and entertainment purposes only. Contact an engineer licensed to practice in your area if you need professional advice or services. All non-licensed clips used for fair use commentary, criticism, and educational purposes.\n\nSPECIAL THANKS\n____________________________________\nThis video is sponsored by Henson.\nStock video and imagery provided by Getty Images, Shutterstock, Pond5, and Videoblocks.\nMusic by Epidemic Sound: http://epidemicsound.com/creator\nTonic and Energy by Elexive is licensed under a Creative Commons Attribution License\nSource: https://www.youtube.com/watch?v=U6fBPdu8w9U\nHosted/Written/Produced by Grady Hillhouse\nEdited by Wesley Crump\nScript Edited by Ralph Crewe\nProduction Assistance from Josh Lorenz\nGraphics by Nebula Studios"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "srPxve1op6_Zl6L_hlLIunR_tZU",
+      "id": "8MR0YeQZ6sk",
+      "snippet": {
+        "publishedAt": "2023-05-02T15:00:07Z",
+        "channelId": "UC52XYgEExV9VG6Rt-6vnzVA",
+        "title": "Destiny 2: Lightfall - Guardian Games 2023 Trailer",
+        "description": "Let the Guardian Games begin! \n \n Follow the fireworks to the Tower where Titans, Hunters, and Warlocks alike will fight for supremacy as well as their second Guardian Games victory. Who will take home the gold?\n \n 🎆 bung.ie/guardiangames\n\nFOLLOW DESTINY:\nFacebook: https://www.facebook.com/DestinyTheGame\nTwitter: https://www.twitter.com/destinythegame\nInstagram: https://www.instagram.com/destinythegame\nDiscord: http://www.discord.gg/destinygame\n\nFOLLOW BUNGIE:\nFacebook: https://www.facebook.com/Bungie/\nTwitter: https://www.twitter.com/bungie\nInstagram: https://www.instagram.com/bungie/\n⠀ ⠀ ⠀ ⠀\nDive into the free-to-play world of Destiny 2 to experience responsive first-person shooter combat, explore the mysteries of our solar system, and unleash elemental abilities against powerful enemies. Create your Guardian and collect unique weapons, armor, and gear to customize your look and playstyle. Experience Destiny 2’s cinematic story alone or with friends, join other Guardians for challenging co-op missions, or compete against them in a variety of PvP modes.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8MR0YeQZ6sk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8MR0YeQZ6sk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8MR0YeQZ6sk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/8MR0YeQZ6sk/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/8MR0YeQZ6sk/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Destiny 2",
+        "tags": [
+          "Destiny",
+          "destiny 2",
+          "xbox",
+          "playstation",
+          "steam",
+          "game",
+          "games",
+          "MMO",
+          "FPS",
+          "action",
+          "warlock",
+          "hunter",
+          "titan"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Destiny 2: Lightfall - Guardian Games 2023 Trailer",
+          "description": "Let the Guardian Games begin! \n \n Follow the fireworks to the Tower where Titans, Hunters, and Warlocks alike will fight for supremacy as well as their second Guardian Games victory. Who will take home the gold?\n \n 🎆 bung.ie/guardiangames\n\nFOLLOW DESTINY:\nFacebook: https://www.facebook.com/DestinyTheGame\nTwitter: https://www.twitter.com/destinythegame\nInstagram: https://www.instagram.com/destinythegame\nDiscord: http://www.discord.gg/destinygame\n\nFOLLOW BUNGIE:\nFacebook: https://www.facebook.com/Bungie/\nTwitter: https://www.twitter.com/bungie\nInstagram: https://www.instagram.com/bungie/\n⠀ ⠀ ⠀ ⠀\nDive into the free-to-play world of Destiny 2 to experience responsive first-person shooter combat, explore the mysteries of our solar system, and unleash elemental abilities against powerful enemies. Create your Guardian and collect unique weapons, armor, and gear to customize your look and playstyle. Experience Destiny 2’s cinematic story alone or with friends, join other Guardians for challenging co-op missions, or compete against them in a variety of PvP modes."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    }
+  ],
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 25
+  }
+}
